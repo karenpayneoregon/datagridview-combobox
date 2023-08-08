@@ -1,4 +1,4 @@
-#About
+# About
 
 Provides a basic code sample for working with a DataGridView ComboBox were the only time the DataGridView is touched is for setting the DataGridView up, otherwise all access to data is using two BindingSource components.
 
