@@ -24,3 +24,9 @@ It is 2023 and no matter that developers are using ASP.NET Core, Razor Pages, WP
 - Run the project
 - Inspect the code, learn...
 - Adapt to a project
+
+## Related
+
+[GitHub repository](https://github.com/karenpayneoregon/WindowsFormsMoveItemsUpDown): Windows Forms move items up/down which has projects in .NET Framework and .NET Core 7 Framework.
+
+![Move Up Down Data Grid View](DataGridViewComboBoxCore/assets/MoveUpDownDataGridView.png)
