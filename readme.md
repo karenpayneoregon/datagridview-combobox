@@ -5,8 +5,11 @@ Provides a basic code sample for working with a DataGridView ComboBox were the o
 Since the BindingNavigator is not in Visual Studio toolbox one is included.
 
 Screenshot of finished form.
+![Data Grid View Main1](DataGridViewComboBoxCore/assets/DataGridViewMain.png)
 
-![Data Grid View Main](DataGridViewComboBoxCore/assets/DataGridViewMain.png)
+
+
+
 
 - Uses Microsoft Visual Studio 2022, will work on later versions
 - .NET Core 7
