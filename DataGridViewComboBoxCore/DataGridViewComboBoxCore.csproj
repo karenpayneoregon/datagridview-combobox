@@ -28,7 +28,7 @@
 	  <Content Include="scripts\selectProductsJoineWithColors.sql" />
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.0" />
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Compile Update="Controls\CoreBindingNavigator.cs">
